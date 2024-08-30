@@ -1,4 +1,4 @@
-# ML_proj
+# ClusNet ML Suite
 
 ## Overview
 
